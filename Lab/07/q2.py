@@ -63,6 +63,5 @@ def play_game(cards):
     else:
         print("It's a Draw!")
 
-# Example
 cards = [4, 10, 6, 2, 9, 5]
 play_game(cards)
